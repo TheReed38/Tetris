@@ -1,0 +1,8 @@
+24/04/2019 Début du projet Tétris
+-Programmation d'une structure grille (tableau 2d)
+-Programmation d'une structure grille chainée (liste chainée de tableau)
+-Ecriture de fonctions de base
+-Imagination de la structure: ensemble de règles pour chaque partie
+A FAIRE : Coder une fonction qui décale un tétrominos à droite ou à gauche.
+	  Coder une fonction qui fait descendre le tétrominos en vérifiant qu'il n'y'ait rien en dessous.
+	  Coder une fonction qui provoque la rotation du tétrominos.
